@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "variant=north_west": { "model": "glistremod:shroom_dots_block_nw" },
+        "variant=north": { "model": "glistremod:shroom_dots_block_n" },
+        "variant=north_east": { "model": "glistremod:shroom_dots_block_ne" },
+        "variant=west": { "model": "glistremod:shroom_dots_block_w" },
+        "variant=center": { "model": "glistremod:shroom_dots_block_c" },
+        "variant=east": { "model": "glistremod:shroom_dots_block_e" },
+        "variant=south_west": { "model": "glistremod:shroom_dots_block_sw" },
+        "variant=south": { "model": "glistremod:shroom_dots_block_s" },
+        "variant=south_east": { "model": "glistremod:shroom_dots_block_se" },
+        "variant=stem": { "model": "glistremod:shroom_dots_block_stem" },
+        "variant=all_stem": { "model": "glistremod:shroom_dots_block_stem_all" },
+        "variant=all_outside": { "model": "glistremod:shroom_dots_block_cap_all" },
+        "variant=all_inside": { "model": "glistremod:shroom_dots_block_inside_all" }
+    }
+}

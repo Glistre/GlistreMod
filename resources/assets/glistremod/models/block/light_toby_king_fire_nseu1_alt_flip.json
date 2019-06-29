@@ -1,0 +1,7 @@
+{
+    "parent": "block/fire_nseu1_flip",
+    "textures": {
+        "particle": "blocks/fire_layer_1",
+        "fire": "glistremod:blocks/light_toby_king_fire_layer_1"
+    }
+}

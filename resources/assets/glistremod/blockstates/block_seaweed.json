@@ -1,0 +1,21 @@
+{
+    "variants": {
+         "level=0": { "model": "glistremod:block_seaweed"},
+         "level=1": { "model": "glistremod:block_seaweed"}, 
+         "level=2": { "model": "glistremod:block_seaweed"},
+         "level=3": { "model": "glistremod:block_seaweed"},
+         "level=4": { "model": "glistremod:block_seaweed"},
+         "level=5": { "model": "glistremod:block_seaweed"},
+         "level=6": { "model": "glistremod:block_seaweed"},
+         "level=7": { "model": "glistremod:block_seaweed"},
+         "level=8": { "model": "glistremod:block_seaweed"},
+         "level=9": { "model": "glistremod:block_seaweed"},
+         "level=10": { "model": "glistremod:block_seaweed"},
+         "level=11": { "model": "glistremod:block_seaweed"},
+         "level=12": { "model": "glistremod:block_seaweed"},
+         "level=13": { "model": "glistremod:block_seaweed"},
+         "level=14": { "model": "glistremod:block_seaweed"},
+         "level=15": { "model": "glistremod:block_seaweed"}
+   }
+}
+

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/tallgrass",
+    "textures": {
+        "cross": "glistremod:blocks/light_fire_layer_0"
+    }
+}

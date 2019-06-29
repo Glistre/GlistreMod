@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "glistremod:blocks/shroom_dots_block_inside",
+        "down": "glistremod:blocks/shroom_dots_block_inside",
+        "up": "glistremod:blocks/shroom_dots_block",
+        "north": "glistremod:blocks/shroom_dots_block_inside",
+        "east": "glistremod:blocks/shroom_dots_block",
+        "south": "glistremod:blocks/shroom_dots_block",
+        "west": "glistremod:blocks/shroom_dots_block_inside"
+    }
+}

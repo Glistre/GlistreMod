@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/tallgrass",
+    "textures": {
+        "cross": "glistremod:blocks/block_seaweed"
+    }
+}

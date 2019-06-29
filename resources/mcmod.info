@@ -1,0 +1,14 @@
+[{
+    "modid": "glistremod",
+    "name": "Glistre Mod",
+    "description": "A mod about all things that glistre: wolves, armor, new metals.  Your greed can corrupt the world!",
+    "version": "2.2",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "Glistre" ],
+    "credits": "DiamondMiner for Textures, Tobie's Worst Enemy, and those who make modding tuts, MinecraftForge modding forum.",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+}]

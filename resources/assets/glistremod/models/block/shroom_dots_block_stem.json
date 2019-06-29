@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "side": "glistremod:blocks/shroom_dots_block_stem",
+        "end": "glistremod:blocks/shroom_dots_block_inside"
+    }
+}

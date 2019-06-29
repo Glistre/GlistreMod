@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=east": { "model": "glistremod:glistre_chest" },
+        "facing=west": { "model": "glistremod:glistre_chest" },
+        "facing=north": { "model": "glistremod:glistre_chest" },
+        "facing=south": { "model": "glistremod:glistre_chest" }
+    }
+}
+

@@ -1,0 +1,66 @@
+{
+ "laser_blaster": {"category": "neutral",
+ "sounds": [{"name": "laser_blaster",
+ "stream": false
+ }
+ ]
+ },
+ "ender_blaster": {"category": "neutral",
+ "sounds": [{"name": "ender_blaster",
+ "stream": false
+ }
+ ]
+ },
+ "sceptre_1": {"category": "neutral",
+ "sounds": [{"name": "sceptre_1",
+ "stream": false
+ }
+ ]
+ },
+ "epm_flash": {"category": "neutral",
+ "sounds": [{"name": "epm_flash",
+ "stream": false
+ }
+ ]
+ },
+ "chill_hit": {"category": "neutral",
+ "sounds": [{"name": "chill_hit",
+ "stream": false
+ }
+ ]
+ },
+ "fast_freezing_ice": {"category": "neutral",
+ "sounds": [{"name": "fast_freezing_ice",
+ "stream": false
+ }
+ ]
+ },
+ "records.wolf_howl": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "wolf_howl",
+        "stream": true
+      }
+    ]
+  },
+
+ "records.wolves_howling": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "wolves_howling",
+        "stream": true
+      }
+    ]
+  },
+  "records.sasquatch": {
+      "category": "record",
+      "sounds": [
+          {
+              "name": "sasquatch",
+              "stream": true
+          }
+      ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "glistremod:blocks/glistre_shroom_stripe_block_inside",
+        "down": "glistremod:blocks/glistre_shroom_stripe_block_inside",
+        "up": "glistremod:blocks/glistre_shroom_stripe_block",
+        "north": "glistremod:blocks/glistre_shroom_stripe_block_inside",
+        "east": "glistremod:blocks/glistre_shroom_stripe_block_inside",
+        "south": "glistremod:blocks/glistre_shroom_stripe_block_inside",
+        "west": "glistremod:blocks/glistre_shroom_stripe_block"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=z": { "model": "glistremod:light_portal_ew" },
+        "axis=x": { "model": "glistremod:light_portal_ns" }
+    }
+}
+
